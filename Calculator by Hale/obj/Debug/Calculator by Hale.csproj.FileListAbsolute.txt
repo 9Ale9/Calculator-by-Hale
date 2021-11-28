@@ -1,0 +1,11 @@
+C:\Users\Hale\source\repos\Calculator by Hale\bin\Debug\Calculator by Hale.exe.config
+C:\Users\Hale\source\repos\Calculator by Hale\bin\Debug\Calculator by Hale.exe
+C:\Users\Hale\source\repos\Calculator by Hale\bin\Debug\Calculator by Hale.pdb
+C:\Users\Hale\source\repos\Calculator by Hale\obj\Debug\Calculator by Hale.csproj.AssemblyReference.cache
+C:\Users\Hale\source\repos\Calculator by Hale\obj\Debug\Calculator by Hale.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hale\source\repos\Calculator by Hale\obj\Debug\Calculator_by_Hale.Properties.Resources.resources
+C:\Users\Hale\source\repos\Calculator by Hale\obj\Debug\Calculator by Hale.csproj.GenerateResource.cache
+C:\Users\Hale\source\repos\Calculator by Hale\obj\Debug\Calculator by Hale.csproj.CoreCompileInputs.cache
+C:\Users\Hale\source\repos\Calculator by Hale\obj\Debug\Calculator by Hale.exe
+C:\Users\Hale\source\repos\Calculator by Hale\obj\Debug\Calculator by Hale.pdb
+C:\Users\Hale\source\repos\Calculator by Hale\obj\Debug\Calculator_by_Hale.Calculator.resources
